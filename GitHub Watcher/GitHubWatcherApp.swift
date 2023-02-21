@@ -8,10 +8,11 @@
 import SwiftUI
 
 @main
-struct GitHub_WatcherApp: App {
+struct GitHubWatcherApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            let environment = AppEnvironment.bootstrap()
+            UserSearchView(viewModel: UserSearchViewModel(request: environment.webRequest))
         }
     }
 }

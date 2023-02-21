@@ -1,0 +1,48 @@
+{
+	"total_count": 2,
+	"incomplete_results": false,
+	"items": [
+		{
+			"login": "jenna0rtega",
+			"id": 120311953,
+			"node_id": "U_kgDOByvQkQ",
+			"avatar_url": "https://avatars.githubusercontent.com/u/120311953?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/jenna0rtega",
+			"html_url": "https://github.com/jenna0rtega",
+			"followers_url": "https://api.github.com/users/jenna0rtega/followers",
+			"following_url": "https://api.github.com/users/jenna0rtega/following{/other_user}",
+			"gists_url": "https://api.github.com/users/jenna0rtega/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/jenna0rtega/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/jenna0rtega/subscriptions",
+			"organizations_url": "https://api.github.com/users/jenna0rtega/orgs",
+			"repos_url": "https://api.github.com/users/jenna0rtega/repos",
+			"events_url": "https://api.github.com/users/jenna0rtega/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/jenna0rtega/received_events",
+			"type": "User",
+			"site_admin": false,
+			"score": 1.0
+		},
+		{
+			"login": "JennaOrtega12",
+			"id": 123633160,
+			"node_id": "U_kgDOB15-CA",
+			"avatar_url": "https://avatars.githubusercontent.com/u/123633160?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/JennaOrtega12",
+			"html_url": "https://github.com/JennaOrtega12",
+			"followers_url": "https://api.github.com/users/JennaOrtega12/followers",
+			"following_url": "https://api.github.com/users/JennaOrtega12/following{/other_user}",
+			"gists_url": "https://api.github.com/users/JennaOrtega12/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/JennaOrtega12/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/JennaOrtega12/subscriptions",
+			"organizations_url": "https://api.github.com/users/JennaOrtega12/orgs",
+			"repos_url": "https://api.github.com/users/JennaOrtega12/repos",
+			"events_url": "https://api.github.com/users/JennaOrtega12/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/JennaOrtega12/received_events",
+			"type": "User",
+			"site_admin": false,
+			"score": 1.0
+		}
+	]
+}

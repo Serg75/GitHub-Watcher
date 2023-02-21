@@ -1,0 +1,48 @@
+{
+	"total_count": 7,
+	"incomplete_results": false,
+	"items": [
+		{
+			"login": "FunnyboxXD",
+			"id": 84263161,
+			"node_id": "MDQ6VXNlcjg0MjYzMTYx",
+			"avatar_url": "https://avatars.githubusercontent.com/u/84263161?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/FunnyboxXD",
+			"html_url": "https://github.com/FunnyboxXD",
+			"followers_url": "https://api.github.com/users/FunnyboxXD/followers",
+			"following_url": "https://api.github.com/users/FunnyboxXD/following{/other_user}",
+			"gists_url": "https://api.github.com/users/FunnyboxXD/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/FunnyboxXD/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/FunnyboxXD/subscriptions",
+			"organizations_url": "https://api.github.com/users/FunnyboxXD/orgs",
+			"repos_url": "https://api.github.com/users/FunnyboxXD/repos",
+			"events_url": "https://api.github.com/users/FunnyboxXD/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/FunnyboxXD/received_events",
+			"type": "User",
+			"site_admin": false,
+			"score": 1.0
+		},
+		{
+			"login": "funnyboxcti",
+			"id": 122556903,
+			"node_id": "U_kgDOB04R5w",
+			"avatar_url": "https://avatars.githubusercontent.com/u/122556903?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/funnyboxcti",
+			"html_url": "https://github.com/funnyboxcti",
+			"followers_url": "https://api.github.com/users/funnyboxcti/followers",
+			"following_url": "https://api.github.com/users/funnyboxcti/following{/other_user}",
+			"gists_url": "https://api.github.com/users/funnyboxcti/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/funnyboxcti/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/funnyboxcti/subscriptions",
+			"organizations_url": "https://api.github.com/users/funnyboxcti/orgs",
+			"repos_url": "https://api.github.com/users/funnyboxcti/repos",
+			"events_url": "https://api.github.com/users/funnyboxcti/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/funnyboxcti/received_events",
+			"type": "User",
+			"site_admin": false,
+			"score": 1.0
+		}
+	]
+}
